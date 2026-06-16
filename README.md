@@ -152,7 +152,7 @@ The project includes a Streamlit web application that allows users to:
 Run the application:
 
 ```bash
-streamlit run app.py
+app.py
 ```
 
 ---
@@ -216,6 +216,8 @@ streamlit run app.py
 ## 📈 Results
 
 The final model achieved strong classification performance and was selected based on comparison with multiple machine learning algorithms and hyperparameter tuning.
+## app interface 
+https://loanapprovalprediction-5jfkvsziuin4cck79o8ff5.streamlit.app/
 
 ---
 
